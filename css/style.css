@@ -661,7 +661,7 @@ body.offcanvas {
   .services.color-5 {
     border-bottom: 2px solid #f3b2bd; }
   .services.color-6 {
-    border-bottom: 2px solid #4054b2; }
+    border-bottom: 2px solid #084c6e; }
 
 .services {
   margin-bottom: 80px;
@@ -736,11 +736,11 @@ body.offcanvas {
     .services.color-5 .icon:after {
       border-color: #f3b2bd transparent transparent transparent; }
   .services.color-6 .icon {
-    background: #4054b2; }
+    background: #084c6e; }
     .services.color-6 .icon:before {
-      border-color: transparent transparent #4054b2 transparent; }
+      border-color: transparent transparent #084c6e transparent; }
     .services.color-6 .icon:after {
-      border-color: #4054b2 transparent transparent transparent; }
+      border-color: #084c6e transparent transparent transparent; }
 
 .progress-wrap h3 {
   font-size: 16px;
@@ -816,11 +816,11 @@ body.offcanvas {
     .progress-bar.color-5 span {
       color: #f3b2bd; }
   .progress-bar.color-6 {
-    background: #4054b2; }
+    background: #084c6e; }
     .progress-bar.color-6:after {
-      background: #4054b2; }
+      background: #084c6e; }
     .progress-bar.color-6 span {
-      color: #4054b2; }
+      color: #084c6e; }
 
 .colorlib-feature {
   text-align: left;
