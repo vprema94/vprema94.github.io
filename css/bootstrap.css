@@ -5364,7 +5364,14 @@ button.close {
 .modal-dialog {
   position: relative;
   width: auto;
-  margin: 10px;
+}
+
+#modal-dialog-vp {
+  height: -webkit-fill-available;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto
 }
 
 .modal-content {
