@@ -700,11 +700,20 @@ body.offcanvas {
       border-width: 30px 50px 0 50px;
       border-color: #f3b2bd transparent transparent transparent; }
     .services .icon i {
-      font-size: 30px;
+      font-size: 40px;
       color: #fff;
       z-index: 1;
       display: table-cell;
       vertical-align: middle; }
+    .services .icon .skills-img-icon {
+      display: flex;
+      height: inherit;
+      align-items: center;
+      justify-content: center; }
+      .services .icon .skills-img-icon img {
+        height: 40px;
+        width: auto;
+        z-index: 1; }
   .services .desc {
     margin-top: 60px; }
     .services .desc h3 {
